@@ -1,0 +1,7 @@
+"../testbench.sv"	1
+"../design.sv"	1
+"../scoreboard.sv"	1
+"../transaction.sv"	1
+"../driver.sv"	1
+"../monitor.sv"	1
+"../generator.sv"	1
